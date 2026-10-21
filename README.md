@@ -63,7 +63,7 @@ FREEPDB1
 
 :
 
-![conexion](ConexionSQL.png)
+![conexion](img/ConexionSQL.png)
 
 #### Oracle SQL Developer (Gráfico)
 
@@ -75,7 +75,7 @@ Oracle-local
 
 establecida mostrando el árbol de objetos y diccionarios de datos del esquema:
 
-![conexion](SQLdev.png)
+![conexion](img/SQLdev.png)
 
 ---
 
@@ -97,7 +97,7 @@ dbpg
 
 :
 
-![conexion](PostgreSQLC.png)
+![conexion](img/PostgreSQLC.png)
 
 #### pgAdmin 4 (Gráfico)
 
@@ -121,7 +121,7 @@ dbpg
 
 :
 
-![conexion](PGadmin.png)
+![conexion](img/PGadmin.png)
 
 ---
 
@@ -143,7 +143,7 @@ dbm
 
 :
 
-![conexion](Mariadb.png)
+![conexion](img/Mariadb.png)
 
 #### phpMyAdmin (Web)
 
@@ -167,7 +167,7 @@ dbm
 
 :
 
-![conexion](PHPmyAD.png)
+![conexion](img/PHPmyAD.png)
 
 ---
 
@@ -219,7 +219,7 @@ localhost:1521
 
 ):
 
-![conexion](MultiSGBD.png)
+![conexion](img/MultiSGBD.png)
 
 #### Adminer (Web Ligero)
 
@@ -255,7 +255,7 @@ en PostgreSQL (
 
 ):
 
-![conexion](adminer.png)
+![conexion](img/adminer.png)
 
 ---
 
